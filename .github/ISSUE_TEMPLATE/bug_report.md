@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Título del defecto a reportar
+about: Create a report to help us improve
 title: "[BUG] Título del defecto a reportar"
 labels: bug
 assignees: ''
